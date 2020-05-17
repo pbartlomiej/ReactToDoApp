@@ -1,1 +1,1 @@
-web: nam run server
+web: npm run server
