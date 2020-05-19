@@ -12,6 +12,19 @@ export const settings = {
   },
   defaultListDescription: '<p>I can do all the things!!!</p>',
   defaultColumnIcon: 'list-alt',
+  header: {
+    icon: 'angry',
+  },
+  info: {
+    title: 'What is this page about',
+    image: 'https://images.pexels.com/photos/1537979/pexels-photo-1537979.jpeg',
+    paragraph: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, consectetur consequatur culpa doloremque excepturi expedita facilis in laborum modi neque nihil non perspiciatis quod reiciendis, reprehenderit repudiandae sapiente tenetur veniam!',
+  },
+  faq: {
+    title: 'Frequently Asked Questions',
+    image: 'https://images.pexels.com/photos/356079/pexels-photo-356079.jpeg',
+    paragraph: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, consectetur consequatur culpa doloremque excepturi expedita facilis in laborum modi neque nihil non perspiciatis quod reiciendis, reprehenderit repudiandae sapiente tenetur veniam!',
+  },
 };
 
 export const pageContents = {

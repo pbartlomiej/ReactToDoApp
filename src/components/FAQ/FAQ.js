@@ -3,13 +3,13 @@ import Container from '../Container/Container';
 import Hero from '../Hero/Hero';
 import { settings } from '../../data/dataStore';
 
-const Info = () => (
+const FAQ = () => (
   <Container>
     <Hero titleText={title} imageURL={image} />
     <p>{paragraph}</p>
   </Container>
 );
 
-const { title, image, paragraph } = settings.info;
+const { title, image, paragraph } = settings.faq;
 
-export default Info;
+export default FAQ;
